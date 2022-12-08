@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2022-12-06T00:53:31.741883+00:00",
+  "timestamp": "2022-12-08T00:52:58.565305+00:00",
   "repo": "nedmsmith/draft-smith-rats-oidc-attest",
   "labels": [
     {
@@ -98,24 +98,26 @@
       "id": "PR_kwDOIhTxMM5D6f3F",
       "title": "Update files",
       "url": "https://github.com/nedmsmith/draft-smith-rats-oidc-attest/pull/2",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "thomas-fossati",
       "authorAssociation": "COLLABORATOR",
       "assignees": [],
       "labels": [],
       "body": "",
       "createdAt": "2022-11-29T18:58:44Z",
-      "updatedAt": "2022-11-29T19:07:38Z",
+      "updatedAt": "2022-12-07T19:37:29Z",
       "baseRepository": "nedmsmith/draft-smith-rats-oidc-attest",
       "baseRefName": "main",
       "baseRefOid": "45c208260d2f4009a6dc66197d9368d32468338c",
       "headRepository": "nedmsmith/draft-smith-rats-oidc-attest",
       "headRefName": "update-files",
       "headRefOid": "d43eea35e4f3612c3054fbc76240ce8343c87e2f",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2022-12-07T19:37:29Z",
+      "mergedAt": "2022-12-07T19:37:29Z",
+      "mergedBy": "thomas-fossati",
+      "mergeCommit": {
+        "oid": "fe9d7db2bf1004e42e90909333f036d7a3db202d"
+      },
       "comments": [],
       "reviews": [
         {
